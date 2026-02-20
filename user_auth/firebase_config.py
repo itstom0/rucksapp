@@ -1,7 +1,7 @@
 import pyrebase
 
 firebase_config = {
-    "apiKey": "AIzaSyCJI6F7j-Xw2rvA5-tYR2GjWhATTmk85qw",
+    "apiKey": "REDACTED",
     "authDomain": "rucksapp-d3482.firebaseapp.com",
     "databaseURL": "https://rucksapp-d3482-default-rtdb.europe-west1.firebasedatabase.app/",
     "projectId": "rucksapp-d3482",
